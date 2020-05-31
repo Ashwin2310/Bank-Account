@@ -1,0 +1,4 @@
+ashwin
+thomas
+Customer
+10000.0
